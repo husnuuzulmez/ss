@@ -1,0 +1,218 @@
+﻿
+
+
+
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+
+
+
+
+.our1 {
+    border: 1px solid #339966;
+    position: relative;
+    width: 220px;
+    padding: 1px 0;
+    left: 0px;
+    top: 0px;
+}
+
+.our-clients-in {
+    position: relative;
+    left: 30px;
+    top: 20px;
+    right: 0px;
+}
+
+.our-clients {
+  
+    border: 1px solid #339966;
+    position: relative;
+    padding: 1px 0;
+    height : 200px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-top: 3px;
+}
+
+
+.star {
+    color: blueviolet;
+    font-size: 18px;
+    text-align :left
+}
+
+.diamond {
+    position: relative;
+    left: 82px;
+    top: 26px;
+    color: blueviolet;
+    font-size: 16px;
+}
+
+
+.phone{
+    position: relative;
+    left: -30px;
+    top:-2px;
+    color: white;
+    font-size: 38px;
+}
+
+.chat{
+    position: relative;
+    left: -30px;
+    top: -2px;
+    color: white;
+    font-size: 35px;
+}
+
+.sttc {
+    position: relative;
+    left: 0px;
+    top:0px;
+}
+
+
+.k1 {
+    text-align: left;
+    color: darkgray;
+    font-size: 10px;
+}
+
+.k2 {
+    text-align: left;
+    color: black;
+    font-size: 25px;
+    font-weight : 500;
+}
+
+.k3 {
+    text-align: left;
+    color: blueviolet;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.k4 {
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.brr {
+    display: block;
+    margin: 10px 0;
+}
+
+.b1 {
+    position: relative;
+    left: -40px;
+}
+
+.t1 {
+    text-align: left;
+    color: limegreen;
+    font-size: 18px;
+}
+
+.t2 {
+    text-align: left;
+    color: gray;
+    font-size: 13px;
+
+}
+
+.t3 {
+    text-align: left;
+    color: darkgrey;
+    font-size: 11px;
+}
+
+.t4 {
+    text-align: left;
+    color: limegreen;
+    font-size: 11px;
+}
+
+
+.calme {
+    position: relative;
+    color :white;
+    left:60px;
+    top: -40px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    word-wrap: normal;
+    width: 40px;
+    height: 100px;
+}
+
+.chatme {
+    position: relative;
+    color: white;
+    left: 60px;
+    top: -40px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    word-wrap: normal;
+    width: 40px;
+    height: 100px;
+}
+
+.fav {
+  
+    position: relative;
+    left: 100px;
+    top: -25px;
+
+    background: #669900;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #FFF;
+    font-size: 40px;
+    border-radius: 50%;
+}
+
+    .fav:hover {
+        background: #ff0000;
+    }
+
+.our-clients ul li {
+	display:inline-block;
+	width:17.5%;
+
+}
+
+.our-clients ul li a img{
+
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	display:inline-block;
+
+}
+
+.
